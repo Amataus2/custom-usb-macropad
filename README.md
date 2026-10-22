@@ -1,4 +1,3 @@
-# custom-usb-macropad
 # Custom Programmable USB Macropad
 
 ## Objective
@@ -18,5 +17,3 @@ Design and construct a 12-key USB mechanical macropad featuring programmable key
 - Design software: KiCad
 - Initial assembly: solderless breadboard
 
-## Definition of Success
-A functional macropad that reliably registers programmed key combinations, communicates over USB, and has documented hardware designs, source code, and validation results.
